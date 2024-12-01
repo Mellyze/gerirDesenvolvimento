@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/dbClasses/ConexaoJDBC.java</file>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/InterfaceGrafica/MenuPrincipal.java</file>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/InterfaceGrafica/ModeloTabela.java</file>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/ClassesEntidades/Cliente.java</file>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/InterfaceGrafica/TabelaPesquisaCliente.java</file>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/gerirveiculos/GerirVeiculos.java</file>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/InterfaceGrafica/CadastroCliente.java</file>
+            <file>file:/F:/VeiculoSistema/gerirVeiculos/src/dbClasses/ExecutaQuery.java</file>
+        </group>
+    </open-files>
+</project-private>
